@@ -3,8 +3,8 @@ portfolio:
     id: salmauro
     title: Salvatore Mauro
     subtitle: Compositore di musica per banda
-    image: /assets/img/portfolio/salmauro_responsive.jpg
-    thumb: /assets/img/portfolio/sm.jpg
+    image: assets/img/portfolio/salmauro_responsive.jpg
+    thumb: assets/img/portfolio/sm.jpg
     tecnology: Jekyll
     tecnoligy-icon: fas fa-vial
     tecnology-link: https://jekyllrb.com/
@@ -16,8 +16,8 @@ portfolio:
     id: santafortunata
     title: Santa Fortunata
     subtitle: Confraternita e Associazione S. Fortunata di Baucina
-    image: /assets/img/portfolio/santafortunata.jpg
-    thumb: /assets/img/portfolio/sf.jpg
+    image: assets/img/portfolio/santafortunata.jpg
+    thumb: assets/img/portfolio/sf.jpg
     tecnology: Joomla
     tecnoligy-icon: fab fa-joomla
     tecnology-link: https://www.joomla.org/
@@ -29,8 +29,8 @@ portfolio:
     id: tcc
     title: Teatro Comunale G. Lena di Cammarata
     subtitle: Associazione Culturale e Musicale VivArt
-    image: /assets/img/portfolio/tcc_responsive.jpg
-    thumb: /assets/img/portfolio/tcc.jpg
+    image: assets/img/portfolio/tcc_responsive.jpg
+    thumb: assets/img/portfolio/tcc.jpg
     tecnology: Joomla
     tecnoligy-icon: fab fa-joomla
     tecnology-link: https://www.joomla.org/
@@ -42,8 +42,8 @@ portfolio:
     id: brt
     title: Baucina Recycling Tyres
     subtitle:  Trasformazione e Recupero PFU
-    image: /assets/img/portfolio/brt_responsive.jpg
-    thumb: /assets/img/portfolio/brt.jpg
+    image: assets/img/portfolio/brt_responsive.jpg
+    thumb: assets/img/portfolio/brt.jpg
     tecnology: Joomla
     tecnoligy-icon: fab fa-joomla
     tecnology-link: https://www.joomla.org/
