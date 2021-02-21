@@ -7,7 +7,7 @@ description: >-
   Antonino Mauro, Web Developer and Trombonist.
   Websites developing with different technologies: AEM (Adobe Experience Manager), Jekyll, Joomla, Wordpress, React.
 baseurl: ""
-url: ""
+url: "https://antoninomauro.github.io/antoninomauro"
 logo: assets/img/logo.svg
 
 social:
