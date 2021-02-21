@@ -1,0 +1,15 @@
+<footer class="footer text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mb-lg-0">
+                {% for soc in site.social %}
+                    <a class="btn btn-outline-light btn-social mx-1" href="{{soc.url}}" target="_blank"><i class="fab fa-fw fa-{{soc.title}}"></i></a>
+                {%endfor%}
+                <p class="mb-0">
+                    Copyright © Antonino Mauro 2021 
+                </p>
+            </div>
+
+        </div>
+    </div>
+</footer>

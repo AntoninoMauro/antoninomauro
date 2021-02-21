@@ -1,0 +1,52 @@
+portfolio:
+  - url: https://salvatoremauro.it
+    id: salmauro
+    title: Salvatore Mauro
+    subtitle: Compositore di musica per banda
+    image: /assets/img/portfolio/salmauro_responsive.jpg
+    thumb: /assets/img/portfolio/sm.jpg
+    tecnology: Jekyll
+    tecnoligy-icon: fas fa-vial
+    tecnology-link: https://jekyllrb.com/
+    year: 2020
+    responsive: true
+    description: Il sito web di Salvatore Mauro offre la possibilità di scaricare gratuitamente spartiti di musica per banda.
+
+  - url: https://santafortunata.org/
+    id: santafortunata
+    title: Santa Fortunata
+    subtitle: Confraternita e Associazione S. Fortunata di Baucina
+    image: /assets/img/portfolio/santafortunata.jpg
+    thumb: /assets/img/portfolio/sf.jpg
+    tecnology: Joomla
+    tecnoligy-icon: fab fa-joomla
+    tecnology-link: https://www.joomla.org/
+    responsive: false
+    year: 2012
+    description: Il sito web della Confraternita e Associazione Santa Fortunata di Baucina offre ai fedeli l'opportunità di seguire gli eventi legati al culto della Martire patrona di Baucina
+  
+  - url: http://teatrocomunaledicammarata.it/
+    id: tcc
+    title: Teatro Comunale G. Lena di Cammarata
+    subtitle: Associazione Culturale e Musicale VivArt
+    image: /assets/img/portfolio/tcc_responsive.jpg
+    thumb: /assets/img/portfolio/tcc.jpg
+    tecnology: Joomla
+    tecnoligy-icon: fab fa-joomla
+    tecnology-link: https://www.joomla.org/
+    responsive: true
+    year: 2019
+    description: Il sito web del Teatro Comunale G. Lena di Cammarata offre agli utenti una panoramica sugli eventi della stagione concertistica e teatrale del teatro
+
+  - url: https://www.baucinarecyclingtyres.com/
+    id: brt
+    title: Baucina Recycling Tyres
+    subtitle:  Trasformazione e Recupero PFU
+    image: /assets/img/portfolio/brt_responsive.jpg
+    thumb: /assets/img/portfolio/brt.jpg
+    tecnology: Joomla
+    tecnoligy-icon: fab fa-joomla
+    tecnology-link: https://www.joomla.org/
+    responsive: true
+    year: 2017
+    description: Baucina Recycling Tyres SRL è una azienda Baucinese che si occupa di riciclare pneumatici Fuori Uso

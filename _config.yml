@@ -1,0 +1,30 @@
+title: Antonino Mauro - Web Developer & Trombonist
+email: antonino_mauro@libero.it
+description: >-
+  Antonino Mauro, Sviluppatore Web e Trombonista. 
+  Sviluppatore di Siti Web con l'utilizzo di diverse tecnologie: AEM (Adobe Experience Manager), Jekyll, Joomla, Wordpress, React.
+
+  Antonino Mauro, Web Developer and Trombonist.
+  Websites developing with different technologies: AEM (Adobe Experience Manager), Jekyll, Joomla, Wordpress, React.
+baseurl: ""
+url: ""
+logo: assets/img/logo.svg
+
+social:
+  - title: facebook-f
+    url: https://www.facebook.com/antoninomauro/
+  - title: linkedin
+    url: https://www.linkedin.com/in/antoninomauro/
+  - title: github
+    url: https://github.com/AntoninoMauro
+  - title: instagram
+    url: https://www.instagram.com/antonino_.mauro/
+  - title: twitter
+    url: https://twitter.com/Antoninomauro
+
+address:
+  - line1: Via Umberto I, 41
+  - line2: Baucina, PA 90020
+
+# Build settings
+markdown: kramdown
